@@ -1,8 +1,7 @@
 ---
 title: 'React JSX Transformer in Rails Middleware'
 date: 2014-01-12
-featured_image: /images/blog/react-jsx-transformer-middleware.webp
-image_caption: Photo by
+featured_image: /images/blog/react-jsx-transformer-middleware.jpg
 tags:
   - blog
   - react

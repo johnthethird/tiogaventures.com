@@ -1,7 +1,7 @@
 ---
 title: 'Validating SAML Tickets in JRuby'
 date: 2013-03-24
-featured_image: /images/blog/validating-saml-tickets-in-jruby.webp
+featured_image: /images/blog/validating-saml-tickets-in-jruby.jpg
 image_caption: Photo by qimono at Pixabay
 tags:
   - blog
