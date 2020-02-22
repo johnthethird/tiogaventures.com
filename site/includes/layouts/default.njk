@@ -18,6 +18,16 @@
     {% else %}
         {# else, use the minified css file for production #}
         <link rel="stylesheet" href="/css/main.min.css">
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-91627-3"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+
+            gtag('config', 'UA-91627-3');
+        </script>
+
     {% endif %}
     <link rel="stylesheet" href="/css/prism-vsc-dark-plus.css">
     <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700&display=swap" rel="stylesheet"> 
