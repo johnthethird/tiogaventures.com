@@ -1145,9 +1145,3 @@ Here is mine:
 ## XSLT
 
 - [easyXDM](https://github.com/oyvindkinsey/easyXDM) - A javascript library providing cross-browser, cross-site messaging/method invocation.
-
-## License
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [johnthethird](https://github.com/johnthethird) has waived all copyright and related or neighboring rights to this work.
