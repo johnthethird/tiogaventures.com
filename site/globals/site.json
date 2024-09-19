@@ -1,35 +1,10 @@
 {
   "name": "Tioga Ventures",
   "url": "https://tiogaventures.com",
-  "author": {
-    "name": "John Lynch",
-    "email": "john@tiogaventures.com",
-    "handle": "@johnrlynch",
-    "avatar": "/images/blog/author.jpg"
-  },
   "images": {
     "logo": "/images/logo/logo.svg",
     "favicon": "/images/favicon.ico",
     "twitter": "/images/meta/twitter.jpg",
     "og": "/images/meta/og.jpg"
-  },
-  "social_links": {
-    "facebook": "https://deletefacebook.com/",
-    "twitter": "https://twitter.com/johnrlynch",
-    "linkedin": "https://www.linkedin.com",
-    "instagram": "https://www.instagram.com/johnthethird",
-    "github": "https://github.com/johnthethird"
-  },
-  "address": {
-    "street": "",
-    "street_2": "",
-    "city": "Carlsbad",
-    "postcode": "",
-    "country": "USA"
-  },
-  "contact": {
-    "phone": "800-dont-spam-me",
-    "mobile": "",
-    "email": "john@tiogaventures.com"
   }
 }
